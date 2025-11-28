@@ -13,6 +13,7 @@ https://nodejs.org
 2. Clone the Project
 ```
 git clone https://github.com/9wdx/Discord-Bot-Dashboard.
+
 cd discord-bot-dashboard.
 ```
 3. Install Dependencies
