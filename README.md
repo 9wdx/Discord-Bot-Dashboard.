@@ -4,8 +4,6 @@ The Discord Bot Dashboard is a powerful web application that allows server owner
 
 How this works
 
-1. Install Required Software
-
 3. Install Node.js (v18 or newer)
 
 Download from:
